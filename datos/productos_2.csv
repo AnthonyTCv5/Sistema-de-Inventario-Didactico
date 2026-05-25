@@ -1,0 +1,5 @@
+id,nombre,descripcion,cantidadActual,stockMinimo
+5,Leche,Leche de vaca,0,20
+6,Queso Costeño,Queso proveniente del campo,10,15
+8,Huevos,Huevos extraidos de la finca El Tinajón,20,30
+9,Chocolisto,Chocolisto de la marca temu,510,25
