@@ -1,6 +1,6 @@
 # 📦 Sistema de Inventario Didáctico — ProEA
 
-> Herramienta de software educativa para el análisis de inventarios y abastecimiento, desarrollada como proyecto de aula para la asignatura de **Cálculo Diferencial** en la Universidad Simón Bolívar de Barranquilla.
+> Herramienta de software educativa para el análisis de inventarios y abastecimiento, desarrollada como proyecto de aula en la Universidad Simón Bolívar de Barranquilla.
 
 ---
 
@@ -133,14 +133,9 @@ git clone git@github.com:AnthonyTCv5/Sistema-de-Inventario-Didactico.git
 
 ---
 
-## 👨‍💻 Autores
+## 👨‍💻 Autor
 
 **Anthony De Jesús Peñaloza Díaz**
-**Braider Luis De la Peña Watler**
-
-Facultad de Ciencias Básicas y Biomédicas
-Universidad Simón Bolívar — Barranquilla, Colombia
-Cálculo Diferencial — Prof. Gabriel Torres Díaz
 
 ---
 
