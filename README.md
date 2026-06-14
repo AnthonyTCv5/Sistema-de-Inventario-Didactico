@@ -32,6 +32,14 @@ El sistema traduce conceptos de Cálculo Diferencial en herramientas útiles:
 
 ---
 
+## 📸 Capturas del sistema
+
+![Dashboard](screenshots/Dashboard.jpg)
+![Proyección](screenshots/Proyeccion.jpg)
+![Alertas](screenshots/Alertas.jpg)
+
+---
+
 ## 🧮 Motor matemático
 
 El análisis matemático se realiza sobre el historial discreto de stock I(t), donde cada punto t representa el estado del inventario tras un movimiento:
@@ -135,7 +143,7 @@ git clone git@github.com:AnthonyTCv5/Sistema-de-Inventario-Didactico.git
 
 ## 👨‍💻 Autor
 
-**Anthony De Jesús Peñaloza Díaz*
+**Anthony De Jesús Peñaloza Díaz**
 
 ---
 
