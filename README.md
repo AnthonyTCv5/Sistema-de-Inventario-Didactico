@@ -135,7 +135,7 @@ git clone git@github.com:AnthonyTCv5/Sistema-de-Inventario-Didactico.git
 
 ## 👨‍💻 Autor
 
-**Anthony De Jesús Peñaloza Díaz*
+** Anthony De Jesús Peñaloza Díaz*
 
 ---
 
